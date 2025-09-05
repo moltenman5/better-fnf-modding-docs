@@ -4,7 +4,7 @@
 
 ## Contributions
 
-The Funkin' Modding Docs repository is accepting contributions via [Github](https://github.com/FunkinCrew/funkin-modding-docs/pulls).
+The Funkin' Modding Docs repository is accepting contributions via [Github](https://github.com/moltenman5/better-fnf-modding-docs/pulls).
 
 ## License
 
