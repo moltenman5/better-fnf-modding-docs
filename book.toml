@@ -1,11 +1,11 @@
 [book]
-authors = ["The Funkin' Crew Inc.", "EliteMasterEric"]
+authors = ["The Funkin' Crew Inc.", "EliteMasterEric", "moltenman5"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Friday Night Funkin' Modding Documentation"
+title = "Friday Night Funkin' Modding Documentation EXTENDED"
 
 
 [output.html]
-git-repository-url = "https://github.com/FunkinCrew/funkin-modding-docs/tree/main/"
-edit-url-template = "https://github.com/FunkinCrew/funkin-modding-docs/edit/main/{path}"
+git-repository-url = "https://github.com/moltenman5/better-fnf-modding-docs/tree/main/"
+edit-url-template = "https://github.com/moltenman5/better-fnf-modding-docs/edit/main/{path}"
