@@ -1,5 +1,5 @@
-# Creating a Friday Night Funkin' Mod - Scripted Modules
-
-This guide will walk you through the process of creating a functioning, fully compatible Friday Night Funkin' mod, using the game's official systems for loading custom content and scripts. Once your mod is complete, you will be able to place it in the `mods` folder in your game install and use its content in-game without overriding the base game content and still maintain compatibility with other mods.
+# Creating a Friday Night Funkin' Mod - Custom Shaders
 
 This chapter will walk you through the process of using a custom runtime shader to alter the appearance of a given sprite or camera using GLSL.
+
+The official Friday Night Funkin' modding system for V Slice utilizes Haxe scripts (.hx) to define custom functionality, including scripted shaders. This provides advanced control over camera effects and sprite manipulation, allowing for dynamic visual experiences within your mod. This guide details how to implement custom shaders written in GLSL (.frag) for use within your Haxe scripts.
